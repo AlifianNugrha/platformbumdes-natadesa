@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Kumpulan template Excel, PDF, dan Canva yang sudah terbukti sukses di 50+ desa wisata binaan Natadesa. Tinggal pakai, langsung jalan.',
   keywords: 'desa wisata, template desa, BUMDes, UMKM desa, pemberdayaan desa, natadesa',
   openGraph: {
-    title: 'NATADESA STARTER PACK - Digital Kit Pemberdayaan Desa Wisata',
+    title: 'TemplateBumdes - By Natadesa',
     description: 'Kumpulan template Excel, PDF, dan Canva yang sudah terbukti sukses di 50+ desa wisata binaan Natadesa.',
     type: 'website',
   },
